@@ -1,0 +1,14 @@
+D:\football team c# advanced\Football league management system\Football league management system\bin\Debug\net9.0\Football league management system.exe
+D:\football team c# advanced\Football league management system\Football league management system\bin\Debug\net9.0\Football league management system.deps.json
+D:\football team c# advanced\Football league management system\Football league management system\bin\Debug\net9.0\Football league management system.runtimeconfig.json
+D:\football team c# advanced\Football league management system\Football league management system\bin\Debug\net9.0\Football league management system.dll
+D:\football team c# advanced\Football league management system\Football league management system\bin\Debug\net9.0\Football league management system.pdb
+D:\football team c# advanced\Football league management system\Football league management system\obj\Debug\net9.0\Football league management system.GeneratedMSBuildEditorConfig.editorconfig
+D:\football team c# advanced\Football league management system\Football league management system\obj\Debug\net9.0\Football league management system.AssemblyInfoInputs.cache
+D:\football team c# advanced\Football league management system\Football league management system\obj\Debug\net9.0\Football league management system.AssemblyInfo.cs
+D:\football team c# advanced\Football league management system\Football league management system\obj\Debug\net9.0\Football league management system.csproj.CoreCompileInputs.cache
+D:\football team c# advanced\Football league management system\Football league management system\obj\Debug\net9.0\Football league management system.dll
+D:\football team c# advanced\Football league management system\Football league management system\obj\Debug\net9.0\refint\Football league management system.dll
+D:\football team c# advanced\Football league management system\Football league management system\obj\Debug\net9.0\Football league management system.pdb
+D:\football team c# advanced\Football league management system\Football league management system\obj\Debug\net9.0\Football league management system.genruntimeconfig.cache
+D:\football team c# advanced\Football league management system\Football league management system\obj\Debug\net9.0\ref\Football league management system.dll

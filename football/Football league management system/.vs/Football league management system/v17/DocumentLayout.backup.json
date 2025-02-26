@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\football team c# advanced\\Football league management system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA89E3E6-26B1-4781-9DD4-5C1D157B852F}|Football league management system\\Football league management system.csproj|d:\\football team c# advanced\\football league management system\\football league management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA89E3E6-26B1-4781-9DD4-5C1D157B852F}|Football league management system\\Football league management system.csproj|solutionrelative:football league management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA89E3E6-26B1-4781-9DD4-5C1D157B852F}|Football league management system\\Football league management system.csproj|d:\\football team c# advanced\\football league management system\\football league management system\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA89E3E6-26B1-4781-9DD4-5C1D157B852F}|Football league management system\\Football league management system.csproj|solutionrelative:football league management system\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA89E3E6-26B1-4781-9DD4-5C1D157B852F}|Football league management system\\Football league management system.csproj|d:\\football team c# advanced\\football league management system\\football league management system\\iteammanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA89E3E6-26B1-4781-9DD4-5C1D157B852F}|Football league management system\\Football league management system.csproj|solutionrelative:football league management system\\iteammanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA89E3E6-26B1-4781-9DD4-5C1D157B852F}|Football league management system\\Football league management system.csproj|d:\\football team c# advanced\\football league management system\\football league management system\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA89E3E6-26B1-4781-9DD4-5C1D157B852F}|Football league management system\\Football league management system.csproj|solutionrelative:football league management system\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA89E3E6-26B1-4781-9DD4-5C1D157B852F}|Football league management system\\Football league management system.csproj|d:\\football team c# advanced\\football league management system\\football league management system\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA89E3E6-26B1-4781-9DD4-5C1D157B852F}|Football league management system\\Football league management system.csproj|solutionrelative:football league management system\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA89E3E6-26B1-4781-9DD4-5C1D157B852F}|Football league management system\\Football league management system.csproj|d:\\football team c# advanced\\football league management system\\football league management system\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA89E3E6-26B1-4781-9DD4-5C1D157B852F}|Football league management system\\Football league management system.csproj|solutionrelative:football league management system\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA89E3E6-26B1-4781-9DD4-5C1D157B852F}|Football league management system\\Football league management system.csproj|d:\\football team c# advanced\\football league management system\\football league management system\\imatchmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA89E3E6-26B1-4781-9DD4-5C1D157B852F}|Football league management system\\Football league management system.csproj|solutionrelative:football league management system\\imatchmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "D:\\football team c# advanced\\Football league management system\\Football league management system\\EventManager.cs",
+              "RelativeDocumentMoniker": "Football league management system\\EventManager.cs",
+              "ToolTip": "D:\\football team c# advanced\\Football league management system\\Football league management system\\EventManager.cs*",
+              "RelativeToolTip": "Football league management system\\EventManager.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:27:24.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMatchManagement.cs",
+              "DocumentMoniker": "D:\\football team c# advanced\\Football league management system\\Football league management system\\IMatchManagement.cs",
+              "RelativeDocumentMoniker": "Football league management system\\IMatchManagement.cs",
+              "ToolTip": "D:\\football team c# advanced\\Football league management system\\Football league management system\\IMatchManagement.cs",
+              "RelativeToolTip": "Football league management system\\IMatchManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:05:37.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITeamManagement.cs",
+              "DocumentMoniker": "D:\\football team c# advanced\\Football league management system\\Football league management system\\ITeamManagement.cs",
+              "RelativeDocumentMoniker": "Football league management system\\ITeamManagement.cs",
+              "ToolTip": "D:\\football team c# advanced\\Football league management system\\Football league management system\\ITeamManagement.cs",
+              "RelativeToolTip": "Football league management system\\ITeamManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:03:56.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tournament.cs",
+              "DocumentMoniker": "D:\\football team c# advanced\\Football league management system\\Football league management system\\Tournament.cs",
+              "RelativeDocumentMoniker": "Football league management system\\Tournament.cs",
+              "ToolTip": "D:\\football team c# advanced\\Football league management system\\Football league management system\\Tournament.cs",
+              "RelativeToolTip": "Football league management system\\Tournament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:35:38.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Match.cs",
+              "DocumentMoniker": "D:\\football team c# advanced\\Football league management system\\Football league management system\\Match.cs",
+              "RelativeDocumentMoniker": "Football league management system\\Match.cs",
+              "ToolTip": "D:\\football team c# advanced\\Football league management system\\Football league management system\\Match.cs",
+              "RelativeToolTip": "Football league management system\\Match.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:19:33.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\football team c# advanced\\Football league management system\\Football league management system\\Team.cs",
+              "RelativeDocumentMoniker": "Football league management system\\Team.cs",
+              "ToolTip": "D:\\football team c# advanced\\Football league management system\\Football league management system\\Team.cs",
+              "RelativeToolTip": "Football league management system\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:06:49.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\football team c# advanced\\Football league management system\\Football league management system\\Program.cs",
+              "RelativeDocumentMoniker": "Football league management system\\Program.cs",
+              "ToolTip": "D:\\football team c# advanced\\Football league management system\\Football league management system\\Program.cs*",
+              "RelativeToolTip": "Football league management system\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:05:55.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
